@@ -2,3 +2,4 @@ curl -i -u admin:admin123 http://localhost/15672/api/queues
 curl -i -u admin:admin123 http://localhost/15672/api/queues
 curl -i -u admin:admin123 http://localhost/15672/api/queues
 curl -i -u admin:admin123 http://localhost/15672/api/queues
+curl -i -u admin:admin123 http://localhost/15672/api/queues
