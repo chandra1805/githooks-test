@@ -1,1 +1,2 @@
-dsakjgvd
+dsakjgv
+curl -i -u admin:admin http://localhost/api
