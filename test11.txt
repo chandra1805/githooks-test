@@ -2,3 +2,4 @@ axsdckfvmgf
 curl -i -u admin:admin123 http://localhost/api/queues
 curl -i -u admin:admin123 http://localhost/api/queues
 curl -i -u admin:admin123 http://localhost/api/queues
+curl -i -u admin:admin123 http://localhost/api/queues
